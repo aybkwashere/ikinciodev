@@ -1,53 +1,98 @@
-<h1>Hande Aybüke Oral Özdemir</h1>
-<!--Yukarda ki bölüm adımın olduğu kısımdır-->
-<h3>Hakkımda</h3>
-<p>Merhaba ben Hande Aybüke Oral ÖZdemir Kocaeli'nde yaşıyorum. Yazılım dünyası hakkında çok fazla şey merak ediyorum.
-</p>
-<h2>Sevdiğim Diziler</h2>
-<h3>Brooklyn Nine-Nine</h3>
-<p>En son izlediğim ve izlemekte olduğum komedi dizisidir.</p>
-<p>Polisiye komedi bir dizi.</p>
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+        <meta charset="UTF-8">
+        
+        <title>Hakkımda</title>
+    </head>
 
+
+
+
+<h1>Hande Aybüke Oral Özdemir</h1>
+
+<!--Yukarda ki bölüm adımın olduğu kısımdır-->
+
+<h2>Hakkımda</h2>
+<hr>
+
+<!-- Altta haakkımda kısa bigilere yer verdiğim bölüm -->
+
+
+<p>Merhaba ben <span style="color: brown;"><em> Hande Aybüke Oral Özdemir</em></span> Kocaeli'nde yaşıyorum. 
+    <br> Havalimanında yer hizmetleri memuru olarak çalışıyorum. 
+    <br> Yazılım dünyası hakkında çok fazla şey merak ediyorum ve öğrenmeye çalışıyorum.
+</p>
+
+
+
+<div>
 <h3>İlgi Alanlarım</h3>
 
+ <!-- Burda sevdiğim filmlerden bahsedeceğim -->
+
 <ol>
-    <!-- Burda sevdiğim filmlerden bahsedeceğim -->
+   
     <li>Film
         <ul>
            <li>
-               <a href="https://blog-okur.com/wp-content/uploads/2020/08/yesil-yol-film-konusu-ve-yorumu.jpg">Yeşil Yol
-
+               <a href="https://www.imdb.com/title/tt0120689/?ref_=nv_sr_srsg_0"> Green Mile
                </a>
             </li>
            <li>Green Book</li>
+
            <li>Titanic</li>
+
         </ul>
     </li>
+    
+
+
     <!-- Burda sevdiğim dizilerden bahsedeceğim -->
+   
+    
+    
     <li>Dizi
+    
         <ul>
             <li>
-                <a href="https://avatars.mds.yandex.net/i?id=100744579bcb81a3c827a2fb891cf354-5220947-images-thumbs&n=13">Brooklyn Nine Nine
-
+                <a href="https://www.imdb.com/title/tt2467372/?ref_=ttmi_tt"> Brooklyn Nine Nine
                 </a>
             </li>
-            <li>Yargı</li>
-            <li>Masumlar Apartmanı</li>
+          
+
+            <li>
+               <a href="https://www.imdb.com/title/tt12979628/?ref_=nv_sr_srsg_0">Yargı
+               </a> 
+            </li>
+
+            <li>
+                <a href="https://www.imdb.com/video/vi4052730137?ref_=nv_sr_srsg_1">Masumlar Apartmanı 
+               </a>
+            </li>
         </ul>
-    </li>
+  
+
     <!-- Burda sevdiğim kitaplardan bahsedeceğim -->
+    
+    
     <li>Kitap
         <ul>
-            <li>Küçük Prens</li>
+            <li>
+                <a href="https://www.goodreads.com/book/show/157993.The_Little_Prince?ac=1&from_search=true&qid=HkUIagYF8G&rank=2">The Little Prince</a> </li>
             <li>İnsan ne ile yaşar?</li>
             <li>Amerika'da kırk yıl</li>
         </ul>
     </li>
 </ol>
+</div>
 
-<h3>Sevdiğim Diziler</h3>
+<img src="https://www.aslibu.com/wp-content/uploads/2016/03/littleprince_001.jpg" alt="Küçük Prens" ali   width="200px">
 
-<img src="https://static.daktilo.com/sites/71/uploads/2020/11/23/f7b4b159-e0dd-4aa8-a7fa-e0c31546bf12-1606131134.jpg" alt="Masumlar apartmanı"Masumlar Apartmanı width="300px">
-<p>Beş kardeşin hikayesi</p>
+<p>Senin gülünün diğerlerinden daha önemli olmasını sağlayan şey, ona ayırdığın vakittir.</p>
 
-<!-- Ödevin kapsamı bu kadar olduğu için bu kadar yazdım -->
+
+
+
+
+</html>
